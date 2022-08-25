@@ -3,4 +3,4 @@ this is first line
 this is feature f1
 =======
 this is feature f2
->>>>>>> f2
+>>>>>>> f2.
